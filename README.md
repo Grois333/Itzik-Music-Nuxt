@@ -1,4 +1,4 @@
-# platzi-music-nuxt
+# Itzik Music Nuxt
 > Nuxt.js project
 
 ## Build Setup
